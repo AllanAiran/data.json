@@ -1,0 +1,182 @@
+[
+  {
+    "id": "DRONE-001",
+    "model": "Airan-X1",
+    "status": "Ready",
+    "battery": 98,
+    "gps": [14.5995, 120.9842],
+    "altitude": 200,
+    "mission": "Surveillance"
+  },
+  {
+    "id": "DRONE-002",
+    "model": "Airan-X1",
+    "status": "Deployed",
+    "battery": 87,
+    "gps": [14.6010, 120.9830],
+    "altitude": 350,
+    "mission": "Recon"
+  },
+  {
+    "id": "DRONE-003",
+    "model": "Airan-X1",
+    "status": "Idle",
+    "battery": 100,
+    "gps": [14.6021, 120.9805],
+    "altitude": 0,
+    "mission": "Standby"
+  },
+  {
+    "id": "DRONE-004",
+    "model": "Airan-X2",
+    "status": "Ready",
+    "battery": 93,
+    "gps": [14.5990, 120.9825],
+    "altitude": 220,
+    "mission": "Attack Simulation"
+  },
+  {
+    "id": "DRONE-005",
+    "model": "Airan-X2",
+    "status": "Deployed",
+    "battery": 76,
+    "gps": [14.5985, 120.9811],
+    "altitude": 500,
+    "mission": "Patrol"
+  },
+  {
+    "id": "DRONE-006",
+    "model": "Airan-X2",
+    "status": "Standby",
+    "battery": 100,
+    "gps": [14.5972, 120.9800],
+    "altitude": 0,
+    "mission": "Reserve"
+  },
+  {
+    "id": "DRONE-007",
+    "model": "Airan-X3",
+    "status": "Ready",
+    "battery": 89,
+    "gps": [14.5960, 120.9780],
+    "altitude": 100,
+    "mission": "Surveillance"
+  },
+  {
+    "id": "DRONE-008",
+    "model": "Airan-X3",
+    "status": "Deployed",
+    "battery": 65,
+    "gps": [14.5955, 120.9772],
+    "altitude": 600,
+    "mission": "Recon"
+  },
+  {
+    "id": "DRONE-009",
+    "model": "Airan-X3",
+    "status": "Charging",
+    "battery": 40,
+    "gps": [14.5942, 120.9761],
+    "altitude": 0,
+    "mission": "Maintenance"
+  },
+  {
+    "id": "DRONE-010",
+    "model": "Airan-X4",
+    "status": "Ready",
+    "battery": 100,
+    "gps": [14.5930, 120.9750],
+    "altitude": 150,
+    "mission": "Test Flight"
+  },
+  {
+    "id": "DRONE-011",
+    "model": "Airan-X4",
+    "status": "Deployed",
+    "battery": 91,
+    "gps": [14.5921, 120.9739],
+    "altitude": 420,
+    "mission": "Combat Test"
+  },
+  {
+    "id": "DRONE-012",
+    "model": "Airan-X4",
+    "status": "Idle",
+    "battery": 100,
+    "gps": [14.5912, 120.9722],
+    "altitude": 0,
+    "mission": "Reserve"
+  },
+  {
+    "id": "DRONE-013",
+    "model": "Airan-X5",
+    "status": "Ready",
+    "battery": 99,
+    "gps": [14.5905, 120.9711],
+    "altitude": 280,
+    "mission": "Defense"
+  },
+  {
+    "id": "DRONE-014",
+    "model": "Airan-X5",
+    "status": "Deployed",
+    "battery": 83,
+    "gps": [14.5892, 120.9703],
+    "altitude": 370,
+    "mission": "Strike Sim"
+  },
+  {
+    "id": "DRONE-015",
+    "model": "Airan-X5",
+    "status": "Standby",
+    "battery": 100,
+    "gps": [14.5885, 120.9694],
+    "altitude": 0,
+    "mission": "Support"
+  },
+  {
+    "id": "DRONE-016",
+    "model": "Airan-X6",
+    "status": "Ready",
+    "battery": 97,
+    "gps": [14.5872, 120.9681],
+    "altitude": 330,
+    "mission": "EW Simulation"
+  },
+  {
+    "id": "DRONE-017",
+    "model": "Airan-X6",
+    "status": "Deployed",
+    "battery": 79,
+    "gps": [14.5861, 120.9670],
+    "altitude": 400,
+    "mission": "Radar Jam"
+  },
+  {
+    "id": "DRONE-018",
+    "model": "Airan-X6",
+    "status": "Charging",
+    "battery": 38,
+    "gps": [14.5850, 120.9660],
+    "altitude": 0,
+    "mission": "Recharge"
+  },
+  {
+    "id": "DRONE-019",
+    "model": "Airan-X7",
+    "status": "Ready",
+    "battery": 100,
+    "gps": [14.5840, 120.9650],
+    "altitude": 300,
+    "mission": "Lethal Strike"
+  },
+  {
+    "id": "DRONE-020",
+    "model": "Airan-X7",
+    "status": "Deployed",
+    "battery": 82,
+    "gps": [14.5830, 120.9640],
+    "altitude": 450,
+    "mission": "Suppression"
+  }
+]

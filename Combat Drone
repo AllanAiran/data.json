@@ -180,3 +180,9 @@
     "mission": "Suppression"
   }
 ]
+
+[
+  { "id": "Enemy A", "x": 100, "y": 200 },
+  { "id": "Enemy B", "x": 450, "y": 220 },
+  { "id": "Enemy C", "x": 700, "y": 550 }
+]
